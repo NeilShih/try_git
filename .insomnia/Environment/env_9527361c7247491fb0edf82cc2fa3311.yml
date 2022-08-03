@@ -1,0 +1,16 @@
+_id: env_9527361c7247491fb0edf82cc2fa3311
+type: Environment
+parentId: env_dd869363b3360a92db357c04e3deb37f96d8de4d
+modified: 1659493388353
+created: 1659493367275
+name: GCA_本機_E7
+data:
+  GCA_Url: gca.test
+  GCA_Token: JHabcdefg
+dataPropertyOrder:
+  "&":
+    - GCA_Url
+    - GCA_Token
+color: null
+isPrivate: false
+metaSortKey: 1659489046952
